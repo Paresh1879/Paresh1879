@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Paresh Natarajan</h1>
-<h4 align="center">I am Paresh Natarajan, a Software Engineer with over 2 years of experience where my work was in automating CI/CD pipelines in Azure and maintaining cloud infrastructure by deploying and scaling applications. I have completed my bachelor's in Electronics and Communication Engineering. I’m currently pursuing a Master of Science in Information Systems from the University of Cincinnati with a graduate certificate in data analytics. My coursework involves analyzing data, applying algorithms, and using machine learning techniques to extract meaningful insights for informed decision-making. Given my background in application development, DevOps engineering, and data analytics, I aim to advance in ML/AI and contribute to innovative projects.</h4>
+<h4 align="left">
+I am Paresh Natarajan, a Software Engineer with over 2 years of experience where my work was in automating CI/CD pipelines in Azure and maintaining cloud infrastructure by deploying and scaling applicationsu primarily using AWS, Azure, Docker and Kubernetes.<h4>
+<h4>I have completed my bachelor's in Electronics and Communication Engineering. I’m currently pursuing a Master of Science in Information Systems from the University of Cincinnati with a graduate certificate in data analytics.</h4>
+<h4>My coursework involves analyzing data, applying algorithms, and using machine learning techniques to extract meaningful insights. Given my background in application development, DevOps engineering, and data analytics, I aim to advance in ML/AI and contribute to innovative projects.</h4>
 
 - 🌱 I’m currently learning **Machine Learning and Predictive Analytics**
 
-- 👨‍💻 All of my projects are available at : https://pareshportolfiosite.vercel.app/
+- 👨‍💻 All of my projects are available at : https://pareshnportfolio.vercel.app/
 
 - 💬 Ask me about **: AWS, Azure / DevOps in general**
 
