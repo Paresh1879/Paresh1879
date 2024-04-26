@@ -6,7 +6,7 @@ I am Paresh Natarajan, a Software Engineer with over 2 years of experience where
 
 - 🌱 I’m currently learning **Machine Learning and Predictive Analytics**
 
-- 👨‍💻 All of my projects are available at : https://pareshnportfolio.vercel.app/
+- 👨‍💻 All of my projects are available at : https://pareshportfolio.vercel.app/
 
 - 💬 Ask me about **: AWS, Azure / DevOps in general**
 
